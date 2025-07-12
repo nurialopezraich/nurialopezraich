@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Núria
-- 🎂 I'm 24 y.o.
+- 🎂 I'm 26 y.o.
 - 🎓 I have a Mathematics Degree
 - 👀 I’m interested in data science and programming
-- 🌱 I’m currently learning C, C++, Python, MySQL...
+- 🌱 I’m currently working as a Data Analyst.
 - 🧐 Passionate about piano, guitar, tennis and padel
 
 <!---
