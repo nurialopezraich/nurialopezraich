@@ -2,7 +2,7 @@
 - 🎂 I'm 26 y.o.
 - 🎓 I have a Mathematics Degree
 - 👀 I’m interested in data science and programming
-- 🌱 I’m currently working as a Data Analyst.
+- 🌱 I’m currently working as a Data Analyst
 - 🧐 Passionate about piano, guitar, tennis and padel
 
 <!---
